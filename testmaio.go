@@ -5,5 +5,5 @@ import (
 )
 
 func Test() {
-    log.Printf("This is version 1")
+    log.Printf("This is version 2")
 }
